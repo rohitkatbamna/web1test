@@ -4,6 +4,7 @@ html{
     font-family: 'Courier New', Courier, monospace;
     height: 1100px;
     width: 1300px;
+    text-align:center;
 }
 header img{
     margin-left: 500px;
