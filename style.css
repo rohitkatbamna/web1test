@@ -20,10 +20,5 @@ header {
 
 .our-mission-p-tag {
 	background-color: aliceblue;
-}
-
-@media only screen and (max-width: 500px) {
-	.our-mission-p-tag {
-		font-size: 9px !important;
-	}
+	font-size: 20px;
 }
