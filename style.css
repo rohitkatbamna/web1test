@@ -1,23 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
 
 html,
 body,
 header {
-    font-family: 'Dancing Script', cursive;
+	font-family: "Dancing Script", cursive;
 }
 
 .change-background-image {
-    background-image: url(./Fun-Vegan-Appetizers.jpg);
+	background-image: url(./Fun-Vegan-Appetizers.jpg);
 }
 
 .change-margin-up {
-    height: 400px;
+	height: 400px;
 }
 
 .our-mission-h2-tag {
-    background-color: aliceblue;
+	background-color: aliceblue;
 }
 
 .our-mission-p-tag {
-    background-color: aliceblue;
+	background-color: aliceblue;
+}
+
+@media only screen and (max-width: 500px) {
+	.our-mission-p-tag {
+		font-size: 15px;
+	}
 }
