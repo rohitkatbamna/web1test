@@ -8,6 +8,8 @@ header {
 
 .change-background-image {
 	background-image: url(./Fun-Vegan-Appetizers.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .change-margin-up {
